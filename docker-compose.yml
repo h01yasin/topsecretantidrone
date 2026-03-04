@@ -1,0 +1,114 @@
+version: '3.8'
+
+services:
+  # Main application
+  defense-system:
+    build: .
+    container_name: anti-drone-defense
+    restart: unless-stopped
+    runtime: nvidia  # For GPU support
+    environment:
+      - NVIDIA_VISIBLE_DEVICES=all
+      - TZ=Asia/Baku
+    volumes:
+      - ./data:/data
+      - ./models:/models
+      - ./logs:/logs
+      - ./config:/app/config
+    ports:
+      - "8000:8000"  # API
+      - "9090:9090"  # Metrics
+    devices:
+      - /dev/video0:/dev/video0  # Camera
+      - /dev/snd:/dev/snd        # Audio
+    networks:
+      - defense-network
+    depends_on:
+      - database
+      - redis
+      - rabbitmq
+    command: python3 unified_defense_system.py
+
+  # PostgreSQL + TimescaleDB
+  database:
+    image: timescale/timescaledb:latest-pg15
+    container_name: defense-db
+    restart: unless-stopped
+    environment:
+      - POSTGRES_USER=defense_user
+      - POSTGRES_PASSWORD=change_me_in_production
+      - POSTGRES_DB=defense_db
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+    networks:
+      - defense-network
+
+  # Redis (caching)
+  redis:
+    image: redis:7-alpine
+    container_name: defense-redis
+    restart: unless-stopped
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis-data:/data
+    networks:
+      - defense-network
+
+  # RabbitMQ (message queue)
+  rabbitmq:
+    image: rabbitmq:3-management-alpine
+    container_name: defense-rabbitmq
+    restart: unless-stopped
+    environment:
+      - RABBITMQ_DEFAULT_USER=defense
+      - RABBITMQ_DEFAULT_PASS=change_me
+    ports:
+      - "5672:5672"   # AMQP
+      - "15672:15672" # Management UI
+    volumes:
+      - rabbitmq-data:/var/lib/rabbitmq
+    networks:
+      - defense-network
+
+  # Prometheus (metrics)
+  prometheus:
+    image: prom/prometheus:latest
+    container_name: defense-prometheus
+    restart: unless-stopped
+    volumes:
+      - ./config/prometheus.yml:/etc/prometheus/prometheus.yml
+      - prometheus-data:/prometheus
+    ports:
+      - "9091:9090"
+    networks:
+      - defense-network
+
+  # Grafana (visualization)
+  grafana:
+    image: grafana/grafana:latest
+    container_name: defense-grafana
+    restart: unless-stopped
+    environment:
+      - GF_SECURITY_ADMIN_PASSWORD=admin
+    volumes:
+      - grafana-data:/var/lib/grafana
+    ports:
+      - "3001:3000"
+    networks:
+      - defense-network
+    depends_on:
+      - prometheus
+
+volumes:
+  postgres-data:
+  redis-data:
+  rabbitmq-data:
+  prometheus-data:
+  grafana-data:
+
+networks:
+  defense-network:
+    driver: bridge
