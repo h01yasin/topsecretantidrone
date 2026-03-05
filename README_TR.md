@@ -4,13 +4,11 @@
 
 ### 🚁 Birleşik Yapay Zeka Destekli Çoklu-Sensör Drone Tespit ve Savunma Sistemi
 
-**Azerbaycan Teknik Üniversitesi (AzTU) Bilgisayar Mühendisliği Ekibi Tarafından Geliştirilmiştir**
-
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg?style=for-the-badge&logo=python)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C.svg?style=for-the-badge&logo=pytorch)](https://pytorch.org/)
 [![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-00FFFF.svg?style=for-the-badge)](https://github.com/ultralytics/ultralytics)
 [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED.svg?style=for-the-badge&logo=docker)](https://www.docker.com/)
-[![License](https://img.shields.io/badge/License-Proprietary-yellow.svg?style=for-the-badge)]()
+[![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 
 [![Status](https://img.shields.io/badge/Durum-Aktif%20Geliştirme-success.svg?style=for-the-badge)]()
 [![Version](https://img.shields.io/badge/Versiyon-1.0.0--alpha-orange.svg?style=for-the-badge)]()
@@ -428,13 +426,6 @@ Bu özel bir projedir. Harici katkılar onay gerektirir.
 
 ## 👥 Ekip
 
-<div align="center">
-
-### 🎓 Azerbaycan Teknik Üniversitesi (AzTU)
-**Bilgisayar Mühendisliği Fakültesi**
-
-</div>
-
 | Rol | Sorumluluk | GitHub |
 |------|---------------|--------|
 | 🎯 **Proje Lideri** | Genel yönetim & strateji | [@h01yasin](https://github.com/h01yasin) |
@@ -444,11 +435,6 @@ Bu özel bir projedir. Harici katkılar onay gerektirir.
 | 🎨 **Frontend Dev** | Panel & UI | TBD |
 | 🧪 **Test Mühendisi** | Kalite güvencesi | TBD |
 | 📐 **Donanım Mühendisi** | Sensör entegrasyonu | TBD |
-
-**Fakülte Danışmanları:**
-- 👨‍🏫 **Prof. Dr. [İsim]** - Yapay Zeka & Bilgisayarlı Görü
-- 👨‍🏫 **Doç. Dr. [İsim]** - Sinyal İşleme
-- 🪖 **Askeri Danışman** - Savunma Uygulamaları
 
 ---
 
@@ -474,21 +460,15 @@ Topluluktan gelen katkılara açığız! Rehber için [CONTRIBUTING.md](CONTRIBU
 
 ## 📜 Lisans
 
-**🔒 Özel Mülkiyet - Azerbaycan Teknik Üniversitesi**
+**MIT Lisansı**
 
 ```
-© 2026 Azerbaycan Teknik Üniversitesi. Tüm Hakları Saklıdır.
+Copyright (c) 2026 Anti-Drone Defense System Katkıda Bulunanlar
 
-Bu yazılım özel ve gizlidir.
-Yetkisiz kopyalama, dağıtım veya kullanım KESİNLİKLE YASAKTır.
-
-⚠️  İHRACAT KONTROL BİLDİRİMİ:
-Bu teknoloji ihracat kontrol düzenlemelerine tabi olabilir.
-Uluslararası transfer öncesi hukuk danışmanına başvurun.
+Bu yazılımı kullanma, değiştirme ve dağıtma izni ücretsiz olarak verilmiştir.
 ```
 
-**Lisanslama Sorguları İçin:**
-- 🐛 [GitHub Issues](https://github.com/h01yasin/topsecretantidrone/issues) kullanın
+Tam detaylar için [LICENSE](LICENSE) dosyasına bakın.
 
 ---
 
@@ -507,21 +487,7 @@ Uluslararası transfer öncesi hukuk danışmanına başvurun.
 
 ---
 
-## 🏆 Teşekkürler & Katkılar
-
-<div align="center">
-
-### 🙏 Özel Teşekkürler
-
-</div>
-
-- 🎓 **Azerbaycan Teknik Üniversitesi** - Akademik destek & kaynaklar
-- 🇦🇿 **Azerbaycan Savunma Bakanlığı** - Stratejik rehberlik
-- 🛡️ **Savunma Sanayi** - Alan uzmanlığı
-- 🤝 **Açık Kaynak Topluluğu** - YOLOv8, PyTorch, GNU Radio
-- 💼 **Endüstri Ortakları** - Donanım & test tesisleri
-
-### 🔬 Açık Kaynak ile İnşa Edildi
+## 🏆 Açık Kaynak ile İnşa Edildi
 
 - [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics) - Nesne tespiti
 - [PyTorch](https://pytorch.org/) - Derin öğrenme framework'ü
@@ -624,17 +590,15 @@ Bu sistem **hassas savunma ile ilgili** veri ve yetenekleri yönetir.
 
 <div align="center">
 
-## 🇦🇿 Azerbaycan'da ❤️ ile Yapıldı
+## � Projeyi Destekleyin
 
-**Azerbaycan Teknik Üniversitesi | Bilgisayar Mühendisliği Fakültesi**
-
-### 🌟 Projeyi desteklemek için GitHub'da yıldız verin! 🌟
+### GitHub'da yıldız verin! ⭐
 
 [![Star History Chart](https://api.star-history.com/svg?repos=h01yasin/topsecretantidrone&type=Date)](https://star-history.com/#h01yasin/topsecretantidrone&Date)
 
 ---
 
-**© 2026 Azerbaycan Teknik Üniversitesi. Tüm Hakları Saklıdır.**
+**© 2026 Anti-Drone Defense System. Açık Kaynak Proje.**
 
 `Versiyon 1.0.0-alpha` | `Son Güncelleme: Mart 2026` | `Sonraki Sürüm: Eylül 2026`
 

@@ -4,13 +4,11 @@
 
 ### 🚁 Unified AI-Powered Multi-Sensor Drone Detection & Defense System
 
-**Developed by Azerbaijan Technical University (AzTU) Computer Engineering Team**
-
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg?style=for-the-badge&logo=python)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C.svg?style=for-the-badge&logo=pytorch)](https://pytorch.org/)
 [![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-00FFFF.svg?style=for-the-badge)](https://github.com/ultralytics/ultralytics)
 [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED.svg?style=for-the-badge&logo=docker)](https://www.docker.com/)
-[![License](https://img.shields.io/badge/License-Proprietary-yellow.svg?style=for-the-badge)]()
+[![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 
 [![Status](https://img.shields.io/badge/Status-Active%20Development-success.svg?style=for-the-badge)]()
 [![Version](https://img.shields.io/badge/Version-1.0.0--alpha-orange.svg?style=for-the-badge)]()
@@ -474,13 +472,6 @@ This is a proprietary project. External contributions require approval.
 
 ## 👥 Team
 
-<div align="center">
-
-### 🎓 Azerbaijan Technical University (AzTU)
-**Faculty of Computer Engineering**
-
-</div>
-
 | Role | Responsibility | GitHub |
 |------|---------------|--------|
 | 🎯 **Project Lead** | Overall management & strategy | [@h01yasin](https://github.com/h01yasin) |
@@ -490,11 +481,6 @@ This is a proprietary project. External contributions require approval.
 | 🎨 **Frontend Dev** | Dashboard & UI | TBD |
 | 🧪 **Test Engineer** | Quality assurance | TBD |
 | 📐 **Hardware Engineer** | Sensor integration | TBD |
-
-**Faculty Advisors:**
-- 👨‍🏫 **Prof. Dr. [Name]** - AI & Computer Vision
-- 👨‍🏫 **Assoc. Prof. [Name]** - Signal Processing
-- 🪖 **Military Advisor** - Defense Applications
 
 ---
 
@@ -520,21 +506,15 @@ We welcome contributions from the community! See [CONTRIBUTING.md](CONTRIBUTING.
 
 ## 📜 License
 
-**🔒 Proprietary - Azerbaijan Technical University**
+**MIT License**
 
 ```
-© 2026 Azerbaijan Technical University. All Rights Reserved.
+Copyright (c) 2026 Anti-Drone Defense System Contributors
 
-This software is proprietary and confidential.
-Unauthorized copying, distribution, or use is STRICTLY PROHIBITED.
-
-⚠️  EXPORT CONTROL NOTICE:
-This technology may be subject to export control regulations.
-Consult with legal counsel before international transfer.
+Permission is hereby granted, free of charge, to use, modify, and distribute this software.
 ```
 
-**For Licensing Inquiries:**
-- � Use [GitHub Issues](https://github.com/h01yasin/topsecretantidrone/issues)
+See [LICENSE](LICENSE) file for full details.
 
 ---
 
@@ -554,21 +534,7 @@ Consult with legal counsel before international transfer.
 
 ---
 
-## 🏆 Acknowledgments & Credits
-
-<div align="center">
-
-### 🙏 Special Thanks To
-
-</div>
-
-- 🎓 **Azerbaijan Technical University** - Academic support & resources
-- 🇦🇿 **Ministry of Defense of Azerbaijan** - Strategic guidance
-- 🛡️ **Defense Industry** - Domain expertise
-- 🤝 **Open Source Community** - YOLOv8, PyTorch, GNU Radio
-- 💼 **Industry Partners** - Hardware & testing facilities
-
-### 🔬 Built With Open Source
+## 🏆 Built With Open Source
 
 - [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics) - Object detection
 - [PyTorch](https://pytorch.org/) - Deep learning framework
@@ -676,17 +642,15 @@ This system handles **sensitive defense-related** data and capabilities.
 
 <div align="center">
 
-## 🇦🇿 Made with ❤️ in Azerbaijan
+## � Support the Project
 
-**Azerbaijan Technical University | Computer Engineering Faculty**
-
-### 🌟 Star us on GitHub to support the project! 🌟
+### Star us on GitHub! ⭐
 
 [![Star History Chart](https://api.star-history.com/svg?repos=h01yasin/topsecretantidrone&type=Date)](https://star-history.com/#h01yasin/topsecretantidrone&Date)
 
 ---
 
-**© 2026 Azerbaijan Technical University. All Rights Reserved.**
+**© 2026 Anti-Drone Defense System. Open Source Project.**
 
 `Version 1.0.0-alpha` | `Last Updated: March 2026` | `Next Release: September 2026`
 
