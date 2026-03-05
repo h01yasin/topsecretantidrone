@@ -2882,7 +2882,7 @@ Price: $500K - $2M
 4. **Azerbaijan Technical University**
    - Electrical & Computer Engineering Faculty
    - Research Labs: AI, Robotics
-   - Website: aztu.edu.az
+   - GitHub: github.com/h01yasin/topsecretantidrone
 
 5. **Baku State University**
    - Physics faculty
@@ -3360,7 +3360,7 @@ Approved by:
 ---
 
 **For questions or updates, contact:**
-- Project email: anti-drone-defense@aztu.edu.az
+- Project repository: https://github.com/h01yasin/topsecretantidrone
 - GitHub: https://github.com/aztu/anti-drone-defense
 - Documentation: [To be created]
 

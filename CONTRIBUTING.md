@@ -267,7 +267,7 @@ All code must be reviewed before merging:
 - ✅ Sign commits (`git config --global commit.gpgsign true`)
 - ✅ Use environment variables for secrets
 - ✅ Review dependencies for vulnerabilities
-- ✅ Report security issues privately to: security@aztu.edu.az
+- ✅ Report security issues privately via: [GitHub Security Tab](https://github.com/h01yasin/topsecretantidrone/security)
 
 ### DON'T:
 - ❌ Commit credentials, API keys, passwords
@@ -350,8 +350,8 @@ Appendices
 **Questions?**
 - Technical: [Tech Lead Email]
 - Process: [Project Manager Email]
-- Security: security@aztu.edu.az
-- General: anti-drone-defense@aztu.edu.az
+- Security: [GitHub Security](https://github.com/h01yasin/topsecretantidrone/security)
+- General: [GitHub Issues](https://github.com/h01yasin/topsecretantidrone/issues)
 
 **Office Hours:**
 - Monday-Friday: 9:00 AM - 6:00 PM (Asia/Baku)

@@ -1,7 +1,7 @@
 FROM nvidia/cuda:11.8.0-cudnn8-runtime-ubuntu22.04
 
 # Metadata
-LABEL maintainer="AzTU Defense Team <anti-drone-defense@aztu.edu.az>"
+LABEL maintainer="Anti-Drone Defense Team"
 LABEL description="Unified Anti-Drone Defense System"
 LABEL version="0.1.0"
 

@@ -198,7 +198,7 @@ sudo usermod -a -G audio $USER
 
 **Issues:** Create GitHub issue or email  
 **Documentation:** See `/docs` folder  
-**Team contact:** anti-drone-defense@aztu.edu.az  
+**Team contact:** [GitHub Issues](https://github.com/h01yasin/topsecretantidrone/issues)  
 
 ---
 

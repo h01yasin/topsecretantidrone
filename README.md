@@ -534,8 +534,7 @@ Consult with legal counsel before international transfer.
 ```
 
 **For Licensing Inquiries:**
-- 📧 Email: licensing@aztu.edu.az
-- 🌐 Website: aztu.edu.az
+- � Use [GitHub Issues](https://github.com/h01yasin/topsecretantidrone/issues)
 
 ---
 
@@ -545,9 +544,9 @@ Consult with legal counsel before international transfer.
 
 | Channel | Link | Purpose |
 |---------|------|---------|
-| 📧 **Email** | anti-drone@aztu.edu.az | General inquiries |
 | 🐛 **GitHub Issues** | [Issues](https://github.com/h01yasin/topsecretantidrone/issues) | Bug reports & features |
-| 🔐 **Security** | security@aztu.edu.az | Security vulnerabilities |
+| 🔐 **Security** | [Security](https://github.com/h01yasin/topsecretantidrone/security) | Security vulnerabilities |
+| 💬 **Discussions** | [Discussions](https://github.com/h01yasin/topsecretantidrone/discussions) | Q&A & ideas |
 | 💬 **Discussions** | [Discussions](https://github.com/h01yasin/topsecretantidrone/discussions) | Q&A & ideas |
 | 🌐 **Website** | Coming Soon | Official website |
 
@@ -671,7 +670,7 @@ This system handles **sensitive defense-related** data and capabilities.
 - ✅ Use VPN for remote access
 - ✅ Comply with export control regulations
 
-**🚨 Report Security Issues:** security@aztu.edu.az (Private & Confidential)
+**🚨 Report Security Issues:** Use [GitHub Security Tab](https://github.com/h01yasin/topsecretantidrone/security) (Private & Confidential)
 
 ---
 
@@ -690,6 +689,13 @@ This system handles **sensitive defense-related** data and capabilities.
 **© 2026 Azerbaijan Technical University. All Rights Reserved.**
 
 `Version 1.0.0-alpha` | `Last Updated: March 2026` | `Next Release: September 2026`
+
+---
+
+### 🌐 Language Options
+
+- **English:** README.md (This file)
+- **Türkçe:** [README_TR.md](README_TR.md)
 
 [Back to Top ⬆](#-anti-drone-defense-system)
 
