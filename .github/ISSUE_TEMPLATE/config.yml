@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 GitHub Discussions
+    url: https://github.com/h01yasin/topsecretantidrone/discussions
+    about: Ask questions and discuss ideas with the community
+  - name: 📚 Documentation
+    url: https://github.com/h01yasin/topsecretantidrone/blob/main/PROJECT_PLAN.md
+    about: Read the complete project documentation
+  - name: 🔐 Security Issues (Private)
+    url: mailto:security@aztu.edu.az
+    about: Report critical security vulnerabilities privately via email
+  - name: 📧 General Contact
+    url: mailto:anti-drone@aztu.edu.az
+    about: Contact the team for general inquiries
