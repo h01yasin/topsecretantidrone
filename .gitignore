@@ -98,6 +98,9 @@ site/
 # Temp
 tmp/
 temp/
+
+# Personal/Internal docs (not for public repo)
+docs/TEAM_SETUP_GUIDE.md
 *.tmp
 
 # Hardware specific
