@@ -456,20 +456,6 @@ This is a proprietary project. External contributions require approval.
 
 ---
 
-## 🌟 Star This Repository!
-
-<div align="center">
-
-**If you find this project useful, please give it a ⭐!**
-
-[![GitHub stars](https://img.shields.io/github/stars/h01yasin/topsecretantidrone.svg?style=social&label=Star)](https://github.com/h01yasin/topsecretantidrone)
-[![GitHub forks](https://img.shields.io/github/forks/h01yasin/topsecretantidrone.svg?style=social&label=Fork)](https://github.com/h01yasin/topsecretantidrone/fork)
-[![GitHub watchers](https://img.shields.io/github/watchers/h01yasin/topsecretantidrone.svg?style=social&label=Watch)](https://github.com/h01yasin/topsecretantidrone)
-
-</div>
-
----
-
 ## 👥 Team
 
 | Role | Responsibility | GitHub |
@@ -642,13 +628,6 @@ This system handles **sensitive defense-related** data and capabilities.
 
 <div align="center">
 
-## � Support the Project
-
-### Star us on GitHub! ⭐
-
-[![Star History Chart](https://api.star-history.com/svg?repos=h01yasin/topsecretantidrone&type=Date)](https://star-history.com/#h01yasin/topsecretantidrone&Date)
-
----
 
 **© 2026 Anti-Drone Defense System. Open Source Project.**
 

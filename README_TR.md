@@ -410,20 +410,6 @@ Bu özel bir projedir. Harici katkılar onay gerektirir.
 
 ---
 
-## 🌟 Bu Repository'ye Yıldız Ver!
-
-<div align="center">
-
-**Bu projeyi faydalı buluyorsanız, lütfen bir ⭐ verin!**
-
-[![GitHub stars](https://img.shields.io/github/stars/h01yasin/topsecretantidrone.svg?style=social&label=Star)](https://github.com/h01yasin/topsecretantidrone)
-[![GitHub forks](https://img.shields.io/github/forks/h01yasin/topsecretantidrone.svg?style=social&label=Fork)](https://github.com/h01yasin/topsecretantidrone/fork)
-[![GitHub watchers](https://img.shields.io/github/watchers/h01yasin/topsecretantidrone.svg?style=social&label=Watch)](https://github.com/h01yasin/topsecretantidrone)
-
-</div>
-
----
-
 ## 👥 Ekip
 
 | Rol | Sorumluluk | GitHub |
@@ -590,13 +576,6 @@ Bu sistem **hassas savunma ile ilgili** veri ve yetenekleri yönetir.
 
 <div align="center">
 
-## � Projeyi Destekleyin
-
-### GitHub'da yıldız verin! ⭐
-
-[![Star History Chart](https://api.star-history.com/svg?repos=h01yasin/topsecretantidrone&type=Date)](https://star-history.com/#h01yasin/topsecretantidrone&Date)
-
----
 
 **© 2026 Anti-Drone Defense System. Açık Kaynak Proje.**
 
