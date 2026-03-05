@@ -1,11 +1,36 @@
+<div align="center">
+
 # 🛡️ Anti-Drone Defense System
 
-**Unified AI-Powered Multi-Sensor Drone Detection & Defense System**
+### 🚁 Unified AI-Powered Multi-Sensor Drone Detection & Defense System
 
-[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
-[![License](https://img.shields.io/badge/License-Proprietary-yellow.svg)]()
-[![Status](https://img.shields.io/badge/Status-Development-orange.svg)]()
+**Developed by Azerbaijan Technical University (AzTU) Computer Engineering Team**
+
+[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg?style=for-the-badge&logo=python)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C.svg?style=for-the-badge&logo=pytorch)](https://pytorch.org/)
+[![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-00FFFF.svg?style=for-the-badge)](https://github.com/ultralytics/ultralytics)
+[![Docker](https://img.shields.io/badge/Docker-Ready-2496ED.svg?style=for-the-badge&logo=docker)](https://www.docker.com/)
+[![License](https://img.shields.io/badge/License-Proprietary-yellow.svg?style=for-the-badge)]()
+
+[![Status](https://img.shields.io/badge/Status-Active%20Development-success.svg?style=for-the-badge)]()
+[![Version](https://img.shields.io/badge/Version-1.0.0--alpha-orange.svg?style=for-the-badge)]()
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=for-the-badge)](CONTRIBUTING.md)
+[![Code Size](https://img.shields.io/github/languages/code-size/h01yasin/topsecretantidrone?style=for-the-badge)]()
+
+[🚀 Quick Start](#-installation) | [📖 Documentation](PROJECT_PLAN.md) | [🗺️ Roadmap](ROADMAP.md) | [🤝 Contributing](CONTRIBUTING.md) | [💬 Issues](https://github.com/h01yasin/topsecretantidrone/issues)
+
+---
+
+### 📸 System Preview
+
+> 🎥 **Demo Video Coming Soon!** - Real-time drone detection and tracking
+
+```
+🖼️ [Screenshot 1: Dashboard]  🖼️ [Screenshot 2: Detection]  🖼️ [Screenshot 3: 3D View]
+     Coming Soon                    Coming Soon                   Coming Soon
+```
+
+</div>
 
 ---
 
@@ -433,67 +458,191 @@ This is a proprietary project. External contributions require approval.
 
 ---
 
-## 📜 License
+## 🌟 Star This Repository!
 
-**Proprietary - Azerbaijan Technical University**
+<div align="center">
 
-This software is proprietary and confidential. Unauthorized copying, distribution, or use is strictly prohibited.
+**If you find this project useful, please give it a ⭐!**
 
-For licensing inquiries: licensing@aztu.edu.az
+[![GitHub stars](https://img.shields.io/github/stars/h01yasin/topsecretantidrone.svg?style=social&label=Star)](https://github.com/h01yasin/topsecretantidrone)
+[![GitHub forks](https://img.shields.io/github/forks/h01yasin/topsecretantidrone.svg?style=social&label=Fork)](https://github.com/h01yasin/topsecretantidrone/fork)
+[![GitHub watchers](https://img.shields.io/github/watchers/h01yasin/topsecretantidrone.svg?style=social&label=Watch)](https://github.com/h01yasin/topsecretantidrone)
+
+</div>
 
 ---
 
 ## 👥 Team
 
-**Azerbaijan Technical University**
+<div align="center">
 
-- **Project Lead:** [Name]
-- **Technical Lead:** [Name]
-- **Computer Vision:** [Names]
-- **RF Engineering:** [Name]
-- **ML Engineering:** [Name]
-- **Backend:** [Name]
-- **Frontend:** [Name]
+### 🎓 Azerbaijan Technical University (AzTU)
+**Faculty of Computer Engineering**
 
-**Advisors:**
-- **Military Advisor:** [Name]
-- **Faculty Advisor:** Prof. [Name]
+</div>
 
----
+| Role | Responsibility | GitHub |
+|------|---------------|--------|
+| 🎯 **Project Lead** | Overall management & strategy | [@h01yasin](https://github.com/h01yasin) |
+| 💻 **AI/ML Lead** | Computer vision & ML models | TBD |
+| 📡 **RF Engineer** | Signal processing & SDR | TBD |
+| 🔧 **Backend Dev** | API & database | TBD |
+| 🎨 **Frontend Dev** | Dashboard & UI | TBD |
+| 🧪 **Test Engineer** | Quality assurance | TBD |
+| 📐 **Hardware Engineer** | Sensor integration | TBD |
 
-## 📞 Contact
-
-**Project Email:** anti-drone-defense@aztu.edu.az  
-**GitHub:** https://github.com/aztu/anti-drone-defense  
-**Website:** [To be created]
-
-**Bug Reports:** Submit via GitHub Issues  
-**Security Issues:** security@aztu.edu.az (private)
+**Faculty Advisors:**
+- 👨‍🏫 **Prof. Dr. [Name]** - AI & Computer Vision
+- 👨‍🏫 **Assoc. Prof. [Name]** - Signal Processing
+- 🪖 **Military Advisor** - Defense Applications
 
 ---
 
-## 🙏 Acknowledgments
+## 🤝 Contributing
 
-- Azerbaijan Technical University
-- Ministry of Defense of Azerbaijan
-- [Partner institutions]
-- All contributors and advisors
+We welcome contributions from the community! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
+<div align="center">
+
+### 💡 Ways to Contribute
+
+| Area | How to Help |
+|------|-------------|
+| 🐛 **Bug Reports** | [Open an issue](https://github.com/h01yasin/topsecretantidrone/issues/new?template=bug_report.md) |
+| ✨ **Feature Requests** | [Request a feature](https://github.com/h01yasin/topsecretantidrone/issues/new?template=feature_request.md) |
+| 📖 **Documentation** | Improve docs & translations |
+| 🧪 **Testing** | Test on different hardware |
+| 💻 **Code** | Submit pull requests |
+
+</div>
 
 ---
 
-## 📅 Changelog
+## 📜 License
 
-### Version 0.1.0 (MVP) - Target: September 2026
-- ✅ Computer vision module
-- ✅ RF detection module
-- ✅ Acoustic detection module
-- ✅ Basic sensor fusion
-- ✅ Web dashboard
-- ⏳ Field testing
+**🔒 Proprietary - Azerbaijan Technical University**
 
-### Version 0.2.0 (Beta) - Target: December 2026
-- ⏳ Trajectory prediction
-- ⏳ Swarm detection
+```
+© 2026 Azerbaijan Technical University. All Rights Reserved.
+
+This software is proprietary and confidential.
+Unauthorized copying, distribution, or use is STRICTLY PROHIBITED.
+
+⚠️  EXPORT CONTROL NOTICE:
+This technology may be subject to export control regulations.
+Consult with legal counsel before international transfer.
+```
+
+**For Licensing Inquiries:**
+- 📧 Email: licensing@aztu.edu.az
+- 🌐 Website: aztu.edu.az
+
+---
+
+## 📞 Contact & Support
+
+<div align="center">
+
+| Channel | Link | Purpose |
+|---------|------|---------|
+| 📧 **Email** | anti-drone@aztu.edu.az | General inquiries |
+| 🐛 **GitHub Issues** | [Issues](https://github.com/h01yasin/topsecretantidrone/issues) | Bug reports & features |
+| 🔐 **Security** | security@aztu.edu.az | Security vulnerabilities |
+| 💬 **Discussions** | [Discussions](https://github.com/h01yasin/topsecretantidrone/discussions) | Q&A & ideas |
+| 🌐 **Website** | Coming Soon | Official website |
+
+</div>
+
+---
+
+## 🏆 Acknowledgments & Credits
+
+<div align="center">
+
+### 🙏 Special Thanks To
+
+</div>
+
+- 🎓 **Azerbaijan Technical University** - Academic support & resources
+- 🇦🇿 **Ministry of Defense of Azerbaijan** - Strategic guidance
+- 🛡️ **Defense Industry** - Domain expertise
+- 🤝 **Open Source Community** - YOLOv8, PyTorch, GNU Radio
+- 💼 **Industry Partners** - Hardware & testing facilities
+
+### 🔬 Built With Open Source
+
+- [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics) - Object detection
+- [PyTorch](https://pytorch.org/) - Deep learning framework
+- [GNU Radio](https://www.gnuradio.org/) - SDR processing
+- [FastAPI](https://fastapi.tiangolo.com/) - Backend framework
+- [React](https://reactjs.org/) - Frontend UI
+
+---
+
+## 📊 Project Stats
+
+<div align="center">
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/h01yasin/topsecretantidrone?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/h01yasin/topsecretantidrone?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/h01yasin/topsecretantidrone?style=flat-square)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/h01yasin/topsecretantidrone?style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/h01yasin/topsecretantidrone?style=flat-square)
+
+</div>
+
+---
+
+## 🗺️ Roadmap & Milestones
+
+<div align="center">
+
+**📅 Full Roadmap:** [ROADMAP.md](ROADMAP.md)
+
+</div>
+
+| Phase | Timeline | Status | Key Deliverables |
+|-------|----------|--------|------------------|
+| **Phase 1: MVP** | Mar - Sep 2026 | 🟡 In Progress | Core detection modules |
+| **Phase 2: Beta** | Oct - Dec 2026 | ⚪ Planned | Trajectory prediction, swarm detection |
+| **Phase 3: Production** | Jan - Jun 2027 | ⚪ Planned | Field deployment, optimization |
+| **Phase 4: Advanced** | Jul - Dec 2027 | ⚪ Future | AI autonomy, counter-measures |
+
+### 📌 Current Sprint Goals
+
+- [x] ✅ Project structure setup
+- [x] ✅ Documentation complete
+- [x] ✅ GitHub repository initialized
+- [ ] 🔄 YOLOv8 model training (Week 2-4)
+- [ ] 🔄 RF scanner prototype (Week 2-5)
+- [ ] 📋 Acoustic sensor testing (Week 3-6)
+- [ ] 📋 Sensor fusion algorithm (Week 4-8)
+
+---
+
+## 📅 Version History
+
+### 🚀 Version 1.0.0-alpha (March 2026)
+- ✅ Initial project structure
+- ✅ Complete documentation (150+ pages)
+- ✅ Core system architecture designed
+- ✅ Development environment setup
+- ✅ GitHub repository created
+
+### 🎯 Version 1.0.0-beta (Target: September 2026)
+- ⏳ Computer vision module operational
+- ⏳ RF detection implemented
+- ⏳ Acoustic detection working
+- ⏳ Basic sensor fusion
+- ⏳ Web dashboard MVP
+- ⏳ Field testing initiated
+
+### 🌟 Version 1.0.0 (Target: March 2027)
+- ⏳ Production-ready system
+- ⏳ All modules integrated
+- ⏳ Performance optimized
+- ⏳ Military certification
+- ⏳ Deployment ready
 - ⏳ Counter-measure integration
 - ⏳ Production deployment
 
@@ -504,17 +653,44 @@ For licensing inquiries: licensing@aztu.edu.az
 
 ---
 
-## ⚠️ Security Notice
+## ⚠️ Security & Compliance
 
-This system handles sensitive defense-related data and capabilities. All users must:
-- Sign NDA before access
-- Follow security protocols
-- Report vulnerabilities immediately
-- Never share credentials
-- Use VPN for remote access
+<div align="center">
 
-**Report security issues:** security@aztu.edu.az
+### 🔐 Security First
+
+This system handles **sensitive defense-related** data and capabilities.
+
+</div>
+
+**All users and contributors must:**
+- ✅ Sign NDA before repository access
+- ✅ Follow security protocols ([SECURITY.md](docs/SECURITY.md))
+- ✅ Report vulnerabilities immediately (private disclosure)
+- ✅ Never share credentials or sensitive data
+- ✅ Use VPN for remote access
+- ✅ Comply with export control regulations
+
+**🚨 Report Security Issues:** security@aztu.edu.az (Private & Confidential)
 
 ---
 
-**Made with ❤️ in Azerbaijan 🇦🇿**
+<div align="center">
+
+## 🇦🇿 Made with ❤️ in Azerbaijan
+
+**Azerbaijan Technical University | Computer Engineering Faculty**
+
+### 🌟 Star us on GitHub to support the project! 🌟
+
+[![Star History Chart](https://api.star-history.com/svg?repos=h01yasin/topsecretantidrone&type=Date)](https://star-history.com/#h01yasin/topsecretantidrone&Date)
+
+---
+
+**© 2026 Azerbaijan Technical University. All Rights Reserved.**
+
+`Version 1.0.0-alpha` | `Last Updated: March 2026` | `Next Release: September 2026`
+
+[Back to Top ⬆](#-anti-drone-defense-system)
+
+</div>
